@@ -13,7 +13,7 @@
 
 ## 年滿18歲沒有免責權證明 (質疑觸法者參考免責聲明3，合法取得公開資料)
 
-![年滿18歲該為不實履歷負責](https://drive.google.com/file/d/1qOkTFvqRslOfQfTQJyj2d5pzH6urL1L-/view?usp=drive_link)
+![年滿18歲該為不實履歷負責](成年無免責聲明.png)
 
 ---
 
