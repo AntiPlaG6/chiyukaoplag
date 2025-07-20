@@ -4,6 +4,10 @@
   <meta charset="UTF-8">
   <title>2025年繁星入學撤銷案｜高齊悠事件整理</title>
   <meta name="description" content="揭露高齊悠科展抄襲與繁星入學撤銷案之事實與查證流程，守護學術誠信。">
+
+  <!-- ✅ Google Search Console 驗證 -->
+  <meta name="google-site-verification" content="sEPmvpYPTrNyEcPP0nE0mXkDSrnff3JhedfBtZkow5Y" />
+
   <style>
     body { font-family: "微軟正黑體", sans-serif; padding: 40px; max-width: 800px; margin: auto; }
     h1 { color: #003366; }
@@ -28,4 +32,5 @@
 
 </body>
 </html>
+
 
