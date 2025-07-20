@@ -11,7 +11,7 @@
 - 📜 [免責聲明2 : 引用《個資法》第6條](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=I0050021&flno=6)
 - 📜 [免責聲明3 : 引用 民法 （民國 110 年 01 月 20 日 ）](https://law.moj.gov.tw/LawClass/LawSingleRela.aspx?PCODE=B0000001&FLNO=83&ty=L)
 
-## 年滿18歲沒有免責權證明 (質疑觸法者參考免責聲明3，合法取得公開資料)
+## 年滿18歲沒有免責權證明 (質疑觸法者參考免責聲明2，合法取得公開資料)
 
 ![年滿18歲該為不實履歷負責](成年無免責聲明.png)
 
